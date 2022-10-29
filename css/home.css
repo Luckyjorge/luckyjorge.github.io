@@ -237,4 +237,20 @@ nav {
   .slider-btn {
     top: 75%;
   }
+
+  footer{
+    text-align: center;
+  }
+
+  footer >p {
+    text-decoration: none ;
+}
+
+footer > a::before {
+text-decoration: none;
+}
+footer>p>a::after {
+text-decoration: none;
+
+}
 }
